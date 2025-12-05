@@ -1,2 +1,3 @@
 # ai--journey
-Day 1 of my ML Research training.
+day1_linear_regression.ipynb
+
