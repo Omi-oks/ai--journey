@@ -1,4 +1,4 @@
 # AI Journey
 
 ## Day 1 – Linear Regression
-[Open Notebook](day1.ipynb)
+[Open Notebook](D1.ipynb)
